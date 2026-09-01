@@ -1,272 +1,304 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:412991&height=280&section=header&text=Krish%20Goyal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Full-Stack%20Developer&descAlignY=52&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:6C63FF,70:8B5CF6,100:22D3EE&height=300&section=header&text=KRISH%20GOYAL&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20Full-Stack%20Engineer&descAlignY=56&descSize=19&descColor=A855F7" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=110&lines=Building+Intelligent+Systems;Engineering+AI+Agents;Designing+RAG+%26+KAG+Pipelines;Turning+LLMs+into+Products;Idea+%E2%86%92+Architecture+%E2%86%92+Code+%E2%86%92+Intelligence+%E2%86%92+Production" alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Building+Intelligent+Systems+with+LLMs+%26+Agents;RAG+%7C+KAG+%7C+Knowledge+Graphs+%7C+NLP+%7C+Computer+Vision;Turning+Ideas+into+Production-Grade+AI+Products;Concept+%E2%86%92+Architecture+%E2%86%92+Code+%E2%86%92+Intelligence+%E2%86%92+Deploy" alt="Typing SVG" />
+<a href="https://github.com/Krishgoyal31"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=8B5CF6"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=A855F7"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/></a>
 
-<br><br>
-
-<a href="https://github.com/Krishgoyal31">
-<img src="https://img.shields.io/badge/GitHub-Krishgoyal31-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Krishgoyal31&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Krishgoyal31?label=Followers&style=for-the-badge&color=6C63FF"/>
+<img src="https://komarev.com/ghpvc/?username=Krishgoyal31&label=PROFILE+VIEWS&color=0B0B12&style=for-the-badge" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<br>
 
-## 🧠 About Me
-
-```python
-class KrishGoyal:
-    def __init__(self):
-        self.role = "AI/ML Engineer & Full-Stack Developer"
-        self.focus = ["LLMs", "AI Agents", "RAG", "KAG", "Knowledge Graphs", "NLP", "Computer Vision"]
-        self.stack = ["Python", "React", "Next.js", "Node.js", "FastAPI", "Django"]
-        self.mission = "Build intelligent products that solve meaningful problems"
-
-    def current_status(self):
-        return {
-            "building": "AI-powered applications & agentic systems",
-            "exploring": "Advanced RAG, Agentic AI, Knowledge Graphs, KAG pipelines",
-            "learning": "AI system architecture & scalable backend engineering",
-            "goal": "Ship real-world intelligent products 🚀"
-        }
-
-me = KrishGoyal()
+```text
+╭──────────────────────────────────────────────────────────────╮
+│  KRISH_OS // AI ENGINEERING ENVIRONMENT                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                                │
+│   > initializing neural systems .......................  ✓   │
+│   > loading agent architecture ........................  ✓   │
+│   > connecting knowledge layer (RAG / KAG) ............  ✓   │
+│   > mounting full-stack toolchain .....................  ✓   │
+│   > calibrating vector + graph memory .................  ✓   │
+│   > system ready                                          ✓   │
+│                                                                │
+│   STATUS : ONLINE     MODE : BUILD     UPTIME : 24/7          │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-I'm a **Computer Science student specializing in Artificial Intelligence**, obsessed with turning ideas into intelligent, real-world software. My core focus spans **Large Language Models, AI Agents, Retrieval-Augmented Generation (RAG), Knowledge-Augmented Generation (KAG), Knowledge Graphs, Deep Learning, Computer Vision (OpenCV), and NLP** — paired with strong **full-stack engineering** to actually ship what I build.
+<br>
+
+## `01 / ABOUT`
+
+> I engineer intelligent systems that combine modern AI with production-grade software — from raw model to shipped product.
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**FOCUS**
+
+`LLMs`
+`AI Agents`
+`RAG`
+`KAG`
+`Knowledge Graphs`
+`NLP`
+`Computer Vision`
+
+</td>
+<td width="33%" valign="top">
+
+**ENGINEERING**
+
+`Python`
+`FastAPI`
+`Django`
+`React`
+`Next.js`
+`Node.js`
+`TypeScript`
+
+</td>
+<td width="33%" valign="top">
+
+**CURRENTLY BUILDING**
+
+`AI-powered applications`
+`Agentic systems`
+`Intelligent developer tools`
+`Scalable AI backends`
+
+</td>
+</tr>
+</table>
+
+I'm a Computer Science student specializing in Artificial Intelligence, working across the full pipeline — model, retrieval layer, agent orchestration, backend, and interface — to ship intelligent products rather than isolated notebooks.
 
 <br>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-</div>
+## `02 / SYSTEM STATUS`
 
-## ⚡ Currently
+```text
+┌───────────────────────────────────────────────────────────────┐
+│ LIVE SYSTEM STATUS                                             │
+├───────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  ● BUILDING     AI-powered applications & agentic systems      │
+│  ● EXPLORING    Advanced RAG, KAG, Knowledge Graphs            │
+│  ● LEARNING     AI system architecture, scalable backends      │
+│  ● SHIPPING     Full-stack products with embedded intelligence │
+│                                                                 │
+└───────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+## `03 / AI STACK ARCHITECTURE`
+
+```text
+                          ┌─────────────────┐
+                          │   INTELLIGENCE  │
+                          └────────┬────────┘
+                                   │
+                ┌──────────────────┼──────────────────┐
+                ↓                  ↓                  ↓
+              LLMs                RAG               AGENTS
+                │                  │                  │
+                ↓                  ↓                  ↓
+           Embeddings         Vector DB          Tool Calling
+                │                  │                  │
+                └──────────────────┼──────────────────┘
+                                   ↓
+                          KNOWLEDGE SYSTEMS
+                             (RAG + KAG)
+                                   ↓
+                     NLP        +        COMPUTER VISION
+                                   ↓
+                          INTELLIGENT PRODUCTS
+                                   ↓
+                              REAL IMPACT
+```
+
+<br>
+
+## `04 / TECHNICAL ARSENAL`
+
+<details open>
+<summary><b>AI / ML</b></summary>
+<br>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" /></p>
+
+`Python` • `PyTorch` • `TensorFlow` • `OpenCV` • `Scikit-learn` • `Deep Learning` • `Computer Vision` • `NLP`
+
+</details>
+
+<details open>
+<summary><b>Generative AI & Agentic Systems</b></summary>
+<br>
+
+<img src="https://img.shields.io/badge/LLMs-050505?style=flat-square&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/RAG-050505?style=flat-square&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/KAG-050505?style=flat-square&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/AI%20Agents-050505?style=flat-square&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/LangChain-050505?style=flat-square&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/LangGraph-050505?style=flat-square&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Knowledge%20Graphs-050505?style=flat-square&logoColor=8B5CF6"/>
+
+`LLM Applications` • `Agentic Workflows` • `Tool Calling` • `RAG Pipelines` • `KAG Pipelines` • `Vector Databases` • `Embeddings` • `Context Engineering`
+
+</details>
+
+<details open>
+<summary><b>Full-Stack Engineering</b></summary>
+<br>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,fastapi,django" /></p>
+
+**Frontend** `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
+**Backend** `Node.js` `Express.js` `FastAPI` `Django`
+**Architecture** `REST APIs` `Authentication` `State Management` `System Design`
+
+</details>
+
+<details open>
+<summary><b>Data & Infrastructure</b></summary>
+<br>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,azure,docker,kubernetes,git,linux" /></p>
+
+`MongoDB` • `PostgreSQL` • `MySQL` • `Redis` • `Vector Databases` • `AWS` • `Azure` • `Docker` • `Kubernetes` • `Git` • `GitHub Actions` • `Linux` • `CI/CD`
+
+</details>
+
+<br>
+
+## `05 / FEATURED PROJECT`
 
 <table width="100%">
 <tr>
 <td>
 
-🔭 **Building** — AI-powered applications & intelligent agentic systems
-🌱 **Exploring** — Advanced RAG, KAG, Agentic AI & Knowledge Graphs
-🧠 **Learning** — AI system architecture & scalable backend design
-💻 **Developing** — Full-stack apps that embed AI into real workflows
-🎯 **Goal** — Build intelligent products that solve meaningful problems
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-</div>
-
-## 🛠️ Technical Arsenal
-
-### 🤖 AI / Machine Learning Core
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-412991?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge"/>
-</p>
-
-`Machine Learning` • `Deep Learning` • `Computer Vision (OpenCV)` • `Natural Language Processing`
-`Generative AI` • `Prompt Engineering` • `Embeddings` • `Vector Search`
-
-### 🧠 Generative AI & Agentic Systems
-
-<p align="center">
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KAG-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Knowledge%20Graphs-0A66C2?style=for-the-badge"/>
-</p>
-
-`LLM Applications` • `Agentic Workflows` • `Tool Calling` • `Retrieval Systems`
-`RAG Pipelines` • `KAG Pipelines` • `Vector Databases` • `Knowledge Graphs`
-`Context Engineering` • `AI Automation`
-
-### 🌐 Full-Stack Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,fastapi,django" />
-</p>
-
-**Frontend:** `HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
-**Backend:** `Node.js` `Express.js` `FastAPI` `Django`
-**Architecture:** `REST APIs` `Authentication` `API Integration` `State Management` `Responsive Design`
-
-### 🗄️ Databases & Data
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
-</p>
-
-`MongoDB` • `MySQL` • `PostgreSQL` • `Redis` • `Vector Databases` • `Data Modeling`
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,linux" />
-</p>
-
-`AWS` • `Azure` • `Docker` • `Kubernetes` • `Git` • `GitHub Actions` • `Linux` • `CI/CD`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-</div>
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 VYXORA
+### ⟡ VYXORA
 **AI-Powered Multi-Module Productivity Platform**
 
-An AI ecosystem combining intelligent chat, AI writing, browser-based dev tools, web generation, and developer utilities into one unified platform.
+An AI ecosystem unifying intelligent chat, AI-assisted writing, browser-based development, web generation, and developer utilities into a single platform — built to remove friction between *thinking* and *shipping*.
 
+**Capabilities**
+`Conversational AI` • `AI Writing Assistant` • `In-Browser Dev Environment` • `AI Web Generation` • `Developer Utilities`
+
+**Stack**
 `GenAI` `LLMs` `AI Agents` `React` `Python` `Full Stack`
 
-[🔗 Repo](YOUR_VYXORA_GITHUB_LINK) • [🌐 Live](YOUR_VYXORA_LIVE_LINK)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI / ML Projects
-Exploring and shipping across:
-
-- Generative AI & AI Agents
-- RAG & KAG pipelines
-- Machine Learning & Deep Learning
-- Computer Vision (OpenCV)
-- Intelligent Automation
-
-[🔗 Explore all projects](https://github.com/Krishgoyal31?tab=repositories)
+**`GitHub`** → YOUR_VYXORA_GITHUB_LINK &nbsp;&nbsp; **`Live Demo`** → YOUR_VYXORA_LIVE_LINK
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-</div>
+**Project Architecture**
 
-## 📊 GitHub Analytics
+```text
+USER
+  │
+  ↓
+WEB APPLICATION
+  │
+  ↓
+AI ORCHESTRATION LAYER
+  │
+ ┌┴────────────────┐
+ ↓                  ↓
+LLM               TOOLS
+ │                  │
+ ↓                  ↓
+RAG           EXTERNAL APIs
+ │
+ ↓
+VECTOR DATABASE
+ │
+ ↓
+INTELLIGENT RESPONSE
+```
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krishgoyal31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishgoyal31&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+**More AI / ML & Full-Stack builds** → [github.com/Krishgoyal31?tab=repositories](https://github.com/Krishgoyal31?tab=repositories)
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Krishgoyal31&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishgoyal31&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Krishgoyal31/Krishgoyal31/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake"/>
-<img src="https://raw.githubusercontent.com/Krishgoyal31/Krishgoyal31/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake"/>
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Krishgoyal31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-</div>
-
-## 💡 Engineering Philosophy
+## `06 / SYSTEM TELEMETRY`
 
 <div align="center">
 
-> **Build things that solve problems.**
->
-> **Learn deeply. Build continuously. Improve relentlessly.**
->
-> **The best way to understand technology is to create with it.**
+<img src="https://github-readme-stats.vercel.app/api?username=Krishgoyal31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishgoyal31&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=8B5CF6&text_color=c9d1d9" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=Krishgoyal31&theme=tokyonight&hide_border=true&background=050505&ring=8B5CF6&fire=A855F7&currStreakLabel=22D3EE" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishgoyal31&theme=tokyo-night&hide_border=true&bg_color=050505&color=8B5CF6&line=A855F7&point=22D3EE" width="100%"/>
 
 </div>
 
-## 📚 The AI Stack I Live In
+<br>
+
+## `07 / CONTRIBUTION MATRIX`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Krishgoyal31/Krishgoyal31/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Krishgoyal31/Krishgoyal31/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake" />
+</div>
+
+<br>
+
+## `08 / ACHIEVEMENT MATRIX`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Krishgoyal31&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</div>
+
+<br>
+
+## `09 / ENGINEERING MANIFESTO`
 
 ```text
-                        ARTIFICIAL INTELLIGENCE
-                                 │
-              ┌──────────────┬──┴───┬──────────────┐
-              ↓              ↓      ↓              ↓
-             LLMs           RAG    KAG          AI Agents
-              │              │      │              │
-              ↓              ↓      ↓              ↓
-        Embeddings      Vector DB  Knowledge   Tool Calling
-              │              │      Graphs         │
-              └──────────────┴───┬──┴──────────────┘
-                                  ↓
-                         NLP + Computer Vision
-                                  │
-                                  ↓
-                       Intelligent Systems
-                                  │
-                                  ↓
-                         Real-World Impact 🚀
+01   BUILD WITH PURPOSE
+02   LEARN DEEPLY
+03   SHIP CONSTANTLY
+04   ENGINEER FOR SCALE
+05   IMPROVE RELENTLESSLY
+```
+
+<br>
+
+## `10 / CONNECT`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                                │
+│          LET'S BUILD SOMETHING                │
+│               INTELLIGENT.                    │
+│                                                │
+│    AI  •  SYSTEMS  •  PRODUCTS  •  INNOVATION  │
+│                                                │
+└──────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-### 💬 Random Dev Wisdom
+<a href="https://github.com/Krishgoyal31"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=8B5CF6"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=A855F7"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/></a>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:412991,50:8B5CF6,100:6C63FF&height=150&section=footer"/>
-
-**⭐ From [Krishgoyal31](https://github.com/Krishgoyal31) — if this profile inspired you, drop a star on my repos!**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,35:8B5CF6,70:6C63FF,100:050505&height=160&section=footer"/>
