@@ -48,21 +48,21 @@
 <tr>
 <td align="center">
 
-```text
+<pre align="center">
 ╔══════════════════════════════════════════════════════════════╗
 ║                      KRISH_OS v2.0                           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  AI ENGINE             ████████████████████   ONLINE         ║
 ║  AGENT RUNTIME         ████████████████████   ONLINE         ║
-║  RAG / KAG              ████████████████████   ONLINE         ║
+║  RAG / KAG              ████████████████████   ONLINE        ║
 ║  FULL-STACK CORE       ████████████████████   ONLINE         ║
 ║  BUILD PIPELINE        ████████████████████   ACTIVE         ║
 ║                                                              ║
 ║  SYSTEM STATUS         ● OPERATIONAL                         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 </td>
 </tr>
@@ -100,7 +100,7 @@
 
 ### 🧠 AI / ML
 
-```text
+<pre align="center">
 Machine Learning
 Deep Learning
 Generative AI
@@ -112,7 +112,7 @@ NLP
 Computer Vision
 Embeddings
 Vector Search
-```
+</pre>
 
 </td>
 
@@ -120,7 +120,7 @@ Vector Search
 
 ### ⚙️ SOFTWARE ENGINEERING
 
-```text
+<pre align="center">
 Python
 FastAPI
 React
@@ -132,7 +132,7 @@ Databases
 Cloud
 CI/CD
 System Design
-```
+</pre>
 
 </td>
 
@@ -217,7 +217,7 @@ Products<br>Platforms
 
 <br>
 
-```text
+<pre align="center">
                          ┌─────────────────────┐
                          │      USER INPUT     │
                          └──────────┬──────────┘
@@ -266,7 +266,7 @@ Products<br>Platforms
                             ┌────────────┐
                             │   OUTPUT   │
                             └────────────┘
-```
+</pre>
 
 <br>
 
@@ -445,7 +445,7 @@ A unified AI productivity ecosystem combining intelligent chat, AI writing, brow
 
 <br>
 
-```text
+<pre align="center">
                          ┌──────────────────┐
                          │       USER       │
                          └────────┬─────────┘
@@ -486,7 +486,7 @@ A unified AI productivity ecosystem combining intelligent chat, AI writing, brow
                   ┌──────────────┐
                   │ PRODUCT OUT  │
                   └──────────────┘
-```
+</pre>
 
 </div>
 
@@ -732,34 +732,34 @@ Learn → Discover
 <tr>
 <td>
 
-```text
+<pre align="center">
 ╭──────────────────────────────────────────────────────────────╮
-│  KRISH@AI-CORE ~                                            │
+│  KRISH@AI-CORE ~                                             │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  $ whoami                                                    │
-│  > AI/ML Engineer                                             │
+│  > AI/ML Engineer                                            │
 │                                                              │
-│  $ focus                                                      │
-│  > Generative AI                                              │
-│  > Agentic Systems                                            │
-│  > RAG / KAG                                                   │
-│  > Full-Stack Engineering                                     │
+│  $ focus                                                     │
+│  > Generative AI                                             │
+│  > Agentic Systems                                           │
+│  > RAG / KAG                                                 │
+│  > Full-Stack Engineering                                    │
 │                                                              │
-│  $ architecture                                               │
+│  $ architecture                                              │
 │  > Model → Memory → Reasoning → Tools → Action               │
 │                                                              │
-│  $ current_project                                            │
-│  > VYXORA                                                      │
+│  $ current_project                                           │
+│  > VYXORA                                                    │
 │                                                              │
-│  $ mission                                                    │
-│  > Build intelligent products people actually use.            │
+│  $ mission                                                   │
+│  > Build intelligent products people actually use.           │
 │                                                              │
-│  $ status                                                     │
-│  > ● ONLINE                                                   │
+│  $ status                                                    │
+│  > ● ONLINE                                                  │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
-```
+</pre>
 
 </td>
 </tr>
