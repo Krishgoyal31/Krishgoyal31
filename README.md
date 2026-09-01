@@ -1,24 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:111827,50:312E81,75:7C3AED,100:06B6D4&height=280&section=header&text=KRISH%20GOYAL&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20GENAI%20BUILDER%20%7C%20FULL-STACK%20ENGINEER&descAlignY=58&descSize=17&descColor=67E8F9&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=950&lines=%3E+BOOTING+KRISH_OS...;%3E+AI+ENGINEERING+CORE+ONLINE+%E2%9C%93;%3E+GENERATIVE+AI+SYSTEMS+ONLINE+%E2%9C%93;%3E+AGENTIC+RUNTIME+ONLINE+%E2%9C%93;%3E+FULL-STACK+ENGINE+ONLINE+%E2%9C%93;%3E+BUILDING+INTELLIGENT+SYSTEMS+%F0%9F%9A%80" alt="Krish OS"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:111827,45:312E81,70:7C3AED,100:06B6D4&height=300&section=header&text=KRISH%20GOYAL&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20FULL%20STACK&descAlignY=58&descSize=17&descColor=67E8F9&animation=fadeIn"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%2FML-ENGINEERING-7C3AED?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/GENERATIVE_AI-06B6D4?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AGENTIC_AI-312E81?style=for-the-badge&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/FULL_STACK-111827?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=1000&lines=%3E+BOOTING+KRISH_OS...;%3E+AI+ENGINEERING+CORE+%5BONLINE%5D+%E2%9C%93;%3E+GENERATIVE+AI+SYSTEMS+%5BONLINE%5D+%E2%9C%93;%3E+AGENTIC+RUNTIME+%5BONLINE%5D+%E2%9C%93;%3E+FULL+STACK+ENGINE+%5BONLINE%5D+%E2%9C%93;%3E+INITIALIZING+BUILD+PROTOCOL...;%3E+READY+TO+BUILD+%F0%9F%9A%80" alt="Krish OS"/>
 
 <br><br>
 
-<a href="https://github.com/Krishgoyal31">
-<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/goyal-krish31/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://krish-goyal.netlify.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-050816?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://krish-goyal.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://vyxora.netlify.app/">
+<img src="https://img.shields.io/badge/VYXORA-LIVE-06B6D4?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a>
+
+<a href="mailto:krishgoyal3101@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -35,27 +38,35 @@
 
 <div align="center">
 
-## `01 / SYSTEM INITIALIZATION`
+# `01 / SYSTEM ONLINE`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1600&pause=400&color=8B5CF6&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+CHECK+%5D;%5B+AI+ENGINE.............ONLINE+%5D;%5B+AGENT+RUNTIME..........ONLINE+%5D;%5B+KNOWLEDGE+ENGINE.......ONLINE+%5D;%5B+FULL-STACK+CORE.........ONLINE+%5D;%5B+DEPLOYMENT+PIPELINE.....ONLINE+%5D" alt="System Check"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1500&pause=350&color=8B5CF6&center=true&vCenter=true&width=950&lines=%5BSYSTEM+CHECK%5D;%5BAI+ENGINE.................ONLINE%5D;%5BAGENT+RUNTIME..............ONLINE%5D;%5BKNOWLEDGE+ENGINE...........ONLINE%5D;%5BFULL+STACK+CORE............ONLINE%5D;%5BDEPLOYMENT+PIPELINE........ONLINE%5D" alt="System Status"/>
 
-<br>
+<br><br>
+
+<table align="center">
+<tr>
+<td align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                         KRISH_OS v2.0                        ║
+║                      KRISH_OS v2.0                           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   AI ENGINE              ████████████████████  ONLINE        ║
-║   AGENT RUNTIME          ████████████████████  ONLINE        ║
-║   KNOWLEDGE SYSTEM       ████████████████████  ONLINE        ║
-║   FULL-STACK CORE        ████████████████████  ONLINE        ║
-║   BUILD PIPELINE         ████████████████████  ACTIVE        ║
+║  AI ENGINE             ████████████████████   ONLINE         ║
+║  AGENT RUNTIME         ████████████████████   ONLINE         ║
+║  RAG / KAG              ████████████████████   ONLINE         ║
+║  FULL-STACK CORE       ████████████████████   ONLINE         ║
+║  BUILD PIPELINE        ████████████████████   ACTIVE         ║
 ║                                                              ║
-║   STATUS                 ● BUILDING                          ║
+║  SYSTEM STATUS         ● OPERATIONAL                         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -63,11 +74,20 @@
 
 <div align="center">
 
-## `02 / WHO AM I?`
+# `02 / ABOUT THE BUILDER`
 
-# I BUILD WHERE **AI MEETS SOFTWARE.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=950&lines=I+build+where+AI+meets+software.;I+turn+models+into+usable+systems.;I+turn+ideas+into+working+products.;I+build.+I+ship.+I+iterate." alt="About"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=900&lines=Not+just+models.;Not+just+interfaces.;Not+just+APIs.;I+build+systems+that+connect+them." alt="Who Am I"/>
+<br>
+
+### 🧠 AI/ML ENGINEER
+### 🤖 GENERATIVE AI BUILDER
+### ⚡ FULL-STACK ENGINEER
+### 🚀 PRODUCT-FOCUSED DEVELOPER
+
+<br>
+
+> **Models are powerful. Systems make them useful.**
 
 </div>
 
@@ -84,7 +104,7 @@
 Machine Learning
 Deep Learning
 Generative AI
-LLMs
+Large Language Models
 RAG
 KAG
 AI Agents
@@ -107,11 +127,11 @@ React
 Next.js
 TypeScript
 Node.js
-Django
 REST APIs
 Databases
 Cloud
 CI/CD
+System Design
 ```
 
 </td>
@@ -119,25 +139,15 @@ CI/CD
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-> **Models are powerful.**
->
-> **Systems make them useful.**
-
-</div>
-
 ---
 
 <div align="center">
 
-## `03 / WHAT I'M BUILDING`
+# `03 / CURRENT BUILD TARGETS`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=500&color=22D3EE&center=true&vCenter=true&width=950&lines=%F0%9F%A4%96+AI+AGENTS;%F0%9F%A7%A0+GENERATIVE+AI;%F0%9F%94%97+RAG+%26+KAG;%F0%9F%93%9A+KNOWLEDGE+SYSTEMS;%E2%9A%A1+AI+BACKENDS;%F0%9F%92%BB+FULL-STACK+PRODUCTS;%F0%9F%9A%80+PRODUCTION+SYSTEMS" alt="What I'm Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1900&pause=450&color=22D3EE&center=true&vCenter=true&width=1000&lines=%F0%9F%A4%96+AGENTIC+AI;%F0%9F%A7%A0+GENERATIVE+AI;%F0%9F%94%97+RAG+%26+KAG;%F0%9F%93%9A+KNOWLEDGE+SYSTEMS;%E2%9A%A1+AI+BACKENDS;%F0%9F%92%BB+FULL+STACK+PRODUCTS;%F0%9F%9A%80+PRODUCTION+SYSTEMS" alt="Build Targets"/>
 
-<br>
+<br><br>
 
 <table align="center">
 <tr>
@@ -146,7 +156,7 @@ CI/CD
 <br>
 🤖
 <br><br>
-<b>AGENTIC AI</b>
+<b>AGENTS</b>
 <br><br>
 Autonomous<br>Workflows
 <br><br>
@@ -156,9 +166,9 @@ Autonomous<br>Workflows
 <br>
 🧠
 <br><br>
-<b>GENERATIVE AI</b>
+<b>GENAI</b>
 <br><br>
-LLMs<br>RAG
+LLMs<br>Reasoning
 <br><br>
 </td>
 
@@ -166,9 +176,9 @@ LLMs<br>RAG
 <br>
 🔗
 <br><br>
-<b>KNOWLEDGE</b>
+<b>RAG / KAG</b>
 <br><br>
-KAG<br>Graphs
+Knowledge<br>Retrieval
 <br><br>
 </td>
 
@@ -201,66 +211,66 @@ Products<br>Platforms
 
 <div align="center">
 
-## `04 / AI SYSTEM ARCHITECTURE`
+# `04 / AI SYSTEM ARCHITECTURE`
 
-### MODEL → MEMORY → REASONING → ACTION
+### MODEL → MEMORY → REASONING → TOOLS → ACTION
 
 <br>
 
 ```text
-                         ┌──────────────────────────┐
-                         │        USER INPUT        │
-                         └────────────┬─────────────┘
-                                      │
-                                      ▼
-                         ┌──────────────────────────┐
-                         │     APPLICATION LAYER    │
-                         └────────────┬─────────────┘
-                                      │
-                                      ▼
-                         ┌──────────────────────────┐
-                         │    AI ORCHESTRATION      │
-                         └────────────┬─────────────┘
-                                      │
-                 ┌────────────────────┼────────────────────┐
-                 │                    │                    │
-                 ▼                    ▼                    ▼
-          ┌────────────┐       ┌────────────┐       ┌────────────┐
-          │    LLM     │       │    RAG     │       │   AGENT    │
-          └─────┬──────┘       └─────┬──────┘       └─────┬──────┘
-                │                    │                    │
-                │                    ▼                    ▼
-                │             ┌────────────┐       ┌────────────┐
-                │             │ VECTOR DB  │       │   TOOLS    │
-                │             └─────┬──────┘       └─────┬──────┘
-                │                   │                    │
-                │                   ▼                    ▼
-                │             ┌────────────┐       ┌────────────┐
-                │             │ KNOWLEDGE  │       │ EXTERNAL   │
-                │             │   LAYER    │       │    APIs    │
-                │             └─────┬──────┘       └─────┬──────┘
-                │                   │                    │
-                └───────────────────┼────────────────────┘
+                         ┌─────────────────────┐
+                         │      USER INPUT     │
+                         └──────────┬──────────┘
                                     │
                                     ▼
-                           ┌─────────────────┐
-                           │     MEMORY      │
-                           └────────┬────────┘
+                         ┌─────────────────────┐
+                         │   APPLICATION UI    │
+                         └──────────┬──────────┘
                                     │
                                     ▼
-                           ┌─────────────────┐
-                           │     ACTION      │
-                           └────────┬────────┘
+                         ┌─────────────────────┐
+                         │  AI ORCHESTRATION   │
+                         └──────────┬──────────┘
                                     │
-                                    ▼
-                           ┌─────────────────┐
-                           │ PRODUCT OUTPUT  │
-                           └─────────────────┘
+                ┌───────────────────┼───────────────────┐
+                │                   │                   │
+                ▼                   ▼                   ▼
+          ┌──────────┐        ┌──────────┐        ┌──────────┐
+          │   LLM    │        │   RAG    │        │  AGENT   │
+          └────┬─────┘        └────┬─────┘        └────┬─────┘
+               │                   │                   │
+               │                   ▼                   ▼
+               │             ┌───────────┐       ┌───────────┐
+               │             │ VECTOR DB │       │   TOOLS   │
+               │             └─────┬─────┘       └─────┬─────┘
+               │                   │                   │
+               │                   ▼                   ▼
+               │             ┌───────────┐       ┌───────────┐
+               │             │ KNOWLEDGE │       │ EXTERNAL  │
+               │             │   LAYER   │       │   APIs    │
+               │             └─────┬─────┘       └─────┬─────┘
+               │                   │                   │
+               └───────────────────┼───────────────────┘
+                                   │
+                                   ▼
+                            ┌────────────┐
+                            │   MEMORY   │
+                            └─────┬──────┘
+                                  │
+                                  ▼
+                            ┌────────────┐
+                            │   ACTION   │
+                            └─────┬──────┘
+                                  │
+                                  ▼
+                            ┌────────────┐
+                            │   OUTPUT   │
+                            └────────────┘
 ```
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=450&color=06B6D4&center=true&vCenter=true&width=850&lines=INPUT+%E2%86%92+MODEL+%E2%86%92+MEMORY+%E2%86%92+REASONING+%E2%86%92+TOOLS+%E2%86%92+ACTION" alt="AI Pipeline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1600&pause=350&color=06B6D4&center=true&vCenter=true&width=950&lines=INPUT+%E2%86%92+MODEL+%E2%86%92+MEMORY+%E2%86%92+REASONING+%E2%86%92+TOOLS+%E2%86%92+ACTION" alt="AI Pipeline"/>
 
 </div>
 
@@ -268,7 +278,7 @@ Products<br>Platforms
 
 <div align="center">
 
-## `05 / TECHNOLOGY MATRIX`
+# `05 / TECHNOLOGY MATRIX`
 
 </div>
 
@@ -277,16 +287,17 @@ Products<br>Platforms
 
 <td align="center" width="50%" valign="top">
 
-### 🤖 AI / ML
+### 🤖 AI / MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn"/>
 
 <br><br>
 
-`Python` · `PyTorch` · `TensorFlow`  
+`Python` · `PyTorch` · `TensorFlow`
+
 `Scikit-Learn` · `OpenCV`
 
-<br><br>
+<br>
 
 **Machine Learning**  
 **Deep Learning**  
@@ -303,18 +314,20 @@ Products<br>Platforms
 
 <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-312E81?style=for-the-badge"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/KAG-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AGENTS-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_AGENTS-06B6D4?style=for-the-badge"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/LANGGRAPH-0891B2?style=for-the-badge"/>
 
 <br><br>
 
-**Agentic Workflows**  
-**Tool Calling**  
-**Embeddings**  
-**Vector Search**
+**Tool Calling** · **Embeddings**  
+**Vector Search** · **Agentic Workflows**
 
 </td>
 
@@ -326,26 +339,27 @@ Products<br>Platforms
 
 ### 🌐 FULL STACK
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,tailwind"/>
 
 <br><br>
 
-`React` · `Next.js` · `TypeScript`  
+`React` · `Next.js` · `TypeScript`
+
 `Node.js` · `Express` · `Tailwind`
 
 </td>
 
 <td align="center" valign="top">
 
-### ☁️ DATA / CLOUD / DEVOPS
+### ☁️ CLOUD / DATA / DEVOPS
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,docker,kubernetes,aws,azure,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,docker,kubernetes,aws,azure,git,github,linux"/>
 
 <br><br>
 
-`MongoDB` · `PostgreSQL` · `MySQL`  
-`Redis` · `Docker` · `Kubernetes`  
-`AWS` · `Azure` · `GitHub Actions`
+`MongoDB` · `PostgreSQL` · `MySQL`
+
+`Redis` · `Docker` · `AWS` · `Azure`
 
 </td>
 
@@ -356,15 +370,14 @@ Products<br>Platforms
 
 <div align="center">
 
-## `06 / FLAGSHIP BUILD`
+# `06 / FLAGSHIP PRODUCT`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=600&color=8B5CF6&center=true&vCenter=true&width=900&lines=VYXORA;%3E+AI-POWERED+MULTI-MODULE+PRODUCTIVITY+PLATFORM" alt="VYXORA"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=950&lines=VYXORA;%3E+AI-POWERED+MULTI-MODULE+PRODUCTIVITY+PLATFORM;%3E+BUILDING+THE+FUTURE+OF+AI+PRODUCTIVITY" alt="VYXORA"/>
 
 <br>
 
 <table align="center" width="92%">
 <tr>
-
 <td align="center">
 
 # ⚡ VYXORA
@@ -373,24 +386,28 @@ Products<br>Platforms
 
 <br>
 
-A unified AI ecosystem combining intelligent chat, AI-assisted writing, browser-based development, web generation and developer utilities into one product experience.
+A unified AI productivity ecosystem combining intelligent chat, AI writing, browser-based development, web generation and developer utilities.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/GENAI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_AGENTS-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REACT-111827?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/PYTHON-111827?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/AI-POWERED-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AGENTS-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FULL_STACK-111827?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://vyxora.netlify.app/">
+<img src="https://img.shields.io/badge/🚀_OPEN_VYXORA_LIVE-7C3AED?style=for-the-badge"/>
+</a>
 
 </td>
-
 </tr>
 </table>
 
 <br>
 
-<table align="center" width="92%">
+<table align="center">
 <tr>
 
 <td align="center" width="20%">
@@ -443,18 +460,18 @@ A unified AI ecosystem combining intelligent chat, AI-assisted writing, browser-
                          │ AI ORCHESTRATOR  │
                          └────────┬─────────┘
                                   │
-                ┌─────────────────┼─────────────────┐
-                ▼                 ▼                 ▼
-            ┌───────┐         ┌───────┐         ┌───────┐
-            │  LLM  │         │  RAG  │         │ TOOLS │
-            └───┬───┘         └───┬───┘         └───┬───┘
-                │                 │                 │
-                │                 ▼                 ▼
-                │           ┌───────────┐      EXTERNAL
-                │           │ VECTOR DB │       SERVICES
-                │           └─────┬─────┘
-                │                 │
-                └────────┬────────┘
+                  ┌───────────────┼───────────────┐
+                  ▼               ▼               ▼
+             ┌────────┐      ┌────────┐      ┌────────┐
+             │  LLM   │      │  RAG   │      │ TOOLS  │
+             └────┬───┘      └────┬───┘      └────┬───┘
+                  │               │               │
+                  │               ▼               ▼
+                  │         ┌──────────┐      EXTERNAL
+                  │         │ VECTOR DB│       SERVICES
+                  │         └────┬─────┘
+                  │              │
+                  └──────┬───────┘
                          ▼
                   ┌──────────────┐
                   │    MEMORY    │
@@ -467,15 +484,9 @@ A unified AI ecosystem combining intelligent chat, AI-assisted writing, browser-
                          │
                          ▼
                   ┌──────────────┐
-                  │    OUTPUT    │
+                  │ PRODUCT OUT  │
                   └──────────────┘
 ```
-
-<br>
-
-<a href="https://github.com/Krishgoyal31?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_BUILDS-→-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
@@ -483,9 +494,9 @@ A unified AI ecosystem combining intelligent chat, AI-assisted writing, browser-
 
 <div align="center">
 
-## `07 / GITHUB COMMAND CENTER`
+# `07 / GITHUB COMMAND CENTER`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1900&pause=500&color=22D3EE&center=true&vCenter=true&width=900&lines=CODE+IS+THE+TELEMETRY.;EVERY+COMMIT+IS+A+SIGNAL.;EVERY+REPOSITORY+IS+AN+EXPERIMENT.;KEEP+BUILDING." alt="GitHub Telemetry"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=450&color=22D3EE&center=true&vCenter=true&width=950&lines=CODE+IS+THE+TELEMETRY.;EVERY+COMMIT+IS+A+SIGNAL.;EVERY+REPOSITORY+IS+AN+EXPERIMENT.;KEEP+BUILDING.;KEEP+SHIPPING." alt="GitHub Command Center"/>
 
 <br><br>
 
@@ -521,9 +532,7 @@ A unified AI ecosystem combining intelligent chat, AI-assisted writing, browser-
 
 <br>
 
-### ⚡ ACTIVITY STREAM
-
-<br>
+## ⚡ ACTIVITY STREAM
 
 <table align="center">
 <tr>
@@ -541,40 +550,34 @@ A unified AI ecosystem combining intelligent chat, AI-assisted writing, browser-
 
 <div align="center">
 
-## `08 / CONTRIBUTION MATRIX`
+# `08 / CONTRIBUTION MATRIX`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1700&pause=450&color=22D3EE&center=true&vCenter=true&width=900&lines=THE+MATRIX+IS+ALIVE+%F0%9F%90%8D;COMMIT.;BUILD.;SHIP.;REPEAT.;KEEP+THE+GREEN+ALIVE." alt="Contribution Matrix"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1600&pause=400&color=22D3EE&center=true&vCenter=true&width=950&lines=THE+MATRIX+IS+ALIVE+%F0%9F%90%8D;COMMIT.;BUILD.;SHIP.;REPEAT.;KEEP+THE+GREEN+ALIVE." alt="Contribution Matrix"/>
 
 <br><br>
 
-<table align="center">
+<table align="center" width="90%">
 <tr>
 
-<td align="center" width="250">
+<td align="center">
 
-### 🟣
-
-**CONTRIBUTION ENGINE**
+### 🟣 CONTRIBUTION ENGINE
 
 <img src="https://img.shields.io/badge/COMMITS-ACTIVE-7C3AED?style=for-the-badge&logo=git&logoColor=white"/>
 
 </td>
 
-<td align="center" width="250">
+<td align="center">
 
-### 🔵
-
-**BUILD PIPELINE**
+### 🔵 BUILD PIPELINE
 
 <img src="https://img.shields.io/badge/BUILD-ONLINE-06B6D4?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </td>
 
-<td align="center" width="250">
+<td align="center">
 
-### 🟢
-
-**SHIPPING LOOP**
+### 🟢 SHIPPING LOOP
 
 <img src="https://img.shields.io/badge/SHIPPING-ACTIVE-10B981?style=for-the-badge&logo=rocket&logoColor=white"/>
 
@@ -585,9 +588,7 @@ A unified AI ecosystem combining intelligent chat, AI-assisted writing, browser-
 
 <br><br>
 
-<table align="center">
-<tr>
-<td align="center">
+<!-- WORKING CONTRIBUTION SNAKE -->
 
 <picture>
   <source
@@ -605,15 +606,7 @@ A unified AI ecosystem combining intelligent chat, AI-assisted writing, browser-
   />
 </picture>
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
+<br><br>
 
 <img
 src="https://raw.githubusercontent.com/Krishgoyal31/Krishgoyal31/output/github-contribution-grid-snake.gif"
@@ -621,13 +614,9 @@ width="900"
 alt="Animated GitHub Contribution Snake"
 />
 
-</td>
-</tr>
-</table>
+<br><br>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1500&pause=350&color=64748B&center=true&vCenter=true&width=800&lines=%5B+CONTRIBUTION+MATRIX+%5D;%5B+TRACKING+ENGINEERING+SIGNALS+%5D;%5B+MORE+BUILDING+%3D+MORE+MOMENTUM+%5D" alt="Contribution Telemetry"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1500&pause=350&color=64748B&center=true&vCenter=true&width=850&lines=%5B+CONTRIBUTION+ENGINE+ACTIVE+%5D;%5B+TRACKING+ENGINEERING+SIGNALS+%5D;%5B+BUILDING+MOMENTUM...+%5D" alt="Contribution Telemetry"/>
 
 </div>
 
@@ -635,50 +624,46 @@ alt="Animated GitHub Contribution Snake"
 
 <div align="center">
 
-## `09 / ACHIEVEMENT MATRIX`
+# `09 / ACHIEVEMENT MATRIX`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=450&color=A78BFA&center=true&vCenter=true&width=900&lines=ACHIEVEMENT+SYSTEM+ONLINE.;PROJECTS+%E2%86%92+MILESTONES;%5B+UNLOCKING+NEXT+LEVEL...+%5D;%5B+KEEP+BUILDING...+%5D" alt="Achievement Matrix"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=400&color=A78BFA&center=true&vCenter=true&width=950&lines=ACHIEVEMENT+SYSTEM+ONLINE.;PROJECTS+%E2%86%92+MILESTONES;%5B+UNLOCKING+NEXT+LEVEL...+%5D;%5B+KEEP+BUILDING...+%5D" alt="Achievement System"/>
 
 <br><br>
 
 <table align="center" width="92%">
 <tr>
 
-<td align="center" width="25%">
+<td align="center">
 
-## 🏆
-
-**BUILDER**
+### 🏆
+### BUILDER
 
 Projects → Products
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-## 🧠
-
-**AI ENGINEER**
+### 🧠
+### AI ENGINEER
 
 Models → Systems
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-## ⚡
-
-**SHIPPER**
+### ⚡
+### SHIPPER
 
 Ideas → Execution
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-## 🚀
-
-**PRODUCT MAKER**
+### 🚀
+### PRODUCT MAKER
 
 Code → Impact
 
@@ -690,9 +675,8 @@ Code → Impact
 
 <td align="center">
 
-## 🔥
-
-**CONSISTENCY**
+### 🔥
+### CONSISTENCY
 
 Commit → Repeat
 
@@ -700,9 +684,8 @@ Commit → Repeat
 
 <td align="center">
 
-## 💎
-
-**QUALITY**
+### 💎
+### QUALITY
 
 Build → Improve
 
@@ -710,9 +693,8 @@ Build → Improve
 
 <td align="center">
 
-## 🛠️
-
-**ENGINEER**
+### 🛠️
+### ENGINEER
 
 Architecture → Scale
 
@@ -720,9 +702,8 @@ Architecture → Scale
 
 <td align="center">
 
-## 🌌
-
-**EXPLORER**
+### 🌌
+### EXPLORER
 
 Learn → Discover
 
@@ -733,19 +714,11 @@ Learn → Discover
 
 <br><br>
 
-<table align="center">
-<tr>
-<td align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Krishgoyal31&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=8&row=2&column=6" width="900" alt="GitHub Achievements"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Krishgoyal31&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=8&row=2&column=6" width="850" alt="GitHub Achievements"/>
+<br><br>
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1600&pause=400&color=64748B&center=true&vCenter=true&width=800&lines=%5B+ACHIEVEMENT+MATRIX+%5D;%5B+BUILDING+IS+THE+UNLOCK+MECHANISM+%5D;%5B+NEXT+LEVEL%3A+KEEP+SHIPPING+%5D" alt="Achievement Telemetry"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1600&pause=400&color=64748B&center=true&vCenter=true&width=850&lines=%5B+ACHIEVEMENT+MATRIX+ONLINE+%5D;%5B+BUILDING+IS+THE+UNLOCK+MECHANISM+%5D;%5B+NEXT+LEVEL%3A+KEEP+SHIPPING+%5D" alt="Achievement Telemetry"/>
 
 </div>
 
@@ -753,7 +726,7 @@ Learn → Discover
 
 <div align="center">
 
-## `10 / DEVELOPER TERMINAL`
+# `10 / DEVELOPER TERMINAL`
 
 <table align="center">
 <tr>
@@ -761,7 +734,7 @@ Learn → Discover
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│  KRISH@AI-CORE ~                                             │
+│  KRISH@AI-CORE ~                                            │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  $ whoami                                                    │
@@ -775,6 +748,9 @@ Learn → Discover
 │                                                              │
 │  $ architecture                                               │
 │  > Model → Memory → Reasoning → Tools → Action               │
+│                                                              │
+│  $ current_project                                            │
+│  > VYXORA                                                      │
 │                                                              │
 │  $ mission                                                    │
 │  > Build intelligent products people actually use.            │
@@ -791,7 +767,7 @@ Learn → Discover
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1600&pause=450&color=22D3EE&center=true&vCenter=true&width=850&lines=%3E+git+add+.;%3E+git+commit+-m+%22build+something+useful%22;%3E+git+push+origin+main;%3E+Deploying...;%3E+Production+%E2%9C%93" alt="Developer Terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1600&pause=450&color=22D3EE&center=true&vCenter=true&width=900&lines=%3E+git+add+.;%3E+git+commit+-m+%22build+something+useful%22;%3E+git+push+origin+main;%3E+Deploying...;%3E+Production+%E2%9C%93" alt="Developer Terminal"/>
 
 </div>
 
@@ -799,7 +775,7 @@ Learn → Discover
 
 <div align="center">
 
-## `11 / BUILD LOOP`
+# `11 / BUILD LOOP`
 
 <table align="center">
 <tr>
@@ -807,7 +783,6 @@ Learn → Discover
 <td align="center">
 
 ### 💡
-
 **IDEATE**
 
 </td>
@@ -817,7 +792,6 @@ Learn → Discover
 <td align="center">
 
 ### 🔎
-
 **RESEARCH**
 
 </td>
@@ -827,7 +801,6 @@ Learn → Discover
 <td align="center">
 
 ### 🏗️
-
 **ARCHITECT**
 
 </td>
@@ -837,7 +810,6 @@ Learn → Discover
 <td align="center">
 
 ### 💻
-
 **BUILD**
 
 </td>
@@ -849,7 +821,6 @@ Learn → Discover
 <td align="center">
 
 ### 🧪
-
 **TEST**
 
 </td>
@@ -859,7 +830,6 @@ Learn → Discover
 <td align="center">
 
 ### 🚀
-
 **SHIP**
 
 </td>
@@ -869,7 +839,6 @@ Learn → Discover
 <td align="center">
 
 ### 📈
-
 **IMPROVE**
 
 </td>
@@ -879,7 +848,6 @@ Learn → Discover
 <td align="center">
 
 ### 🔁
-
 **REPEAT**
 
 </td>
@@ -889,7 +857,7 @@ Learn → Discover
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2100&pause=500&color=8B5CF6&center=true&vCenter=true&width=850&lines=IDEA+%E2%86%92+RESEARCH+%E2%86%92+ARCHITECT+%E2%86%92+BUILD;BUILD+%E2%86%92+TEST+%E2%86%92+SHIP+%E2%86%92+IMPROVE;THEN+DO+IT+AGAIN." alt="Build Loop"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2100&pause=500&color=8B5CF6&center=true&vCenter=true&width=900&lines=IDEA+%E2%86%92+RESEARCH+%E2%86%92+ARCHITECT+%E2%86%92+BUILD;BUILD+%E2%86%92+TEST+%E2%86%92+SHIP+%E2%86%92+IMPROVE;THEN+DO+IT+AGAIN." alt="Build Loop"/>
 
 </div>
 
@@ -897,7 +865,7 @@ Learn → Discover
 
 <div align="center">
 
-## `12 / ENGINEERING MANIFESTO`
+# `12 / ENGINEERING MANIFESTO`
 
 <table align="center" width="90%">
 <tr>
@@ -959,7 +927,7 @@ Learn → Discover
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2400&pause=650&color=8B5CF6&center=true&vCenter=true&width=950&lines=Build+things+that+solve+problems.;Learn+deeply.+Build+continuously.;Systems+over+shortcuts.;Architecture+over+complexity.;Execution+over+excuses.;Keep+shipping." alt="Engineering Manifesto"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2300&pause=600&color=8B5CF6&center=true&vCenter=true&width=950&lines=Build+things+that+solve+problems.;Learn+deeply.+Build+continuously.;Systems+over+shortcuts.;Architecture+over+complexity.;Execution+over+excuses.;Keep+shipping." alt="Engineering Manifesto"/>
 
 </div>
 
@@ -967,29 +935,77 @@ Learn → Discover
 
 <div align="center">
 
-## `13 / CONNECTION TERMINAL`
+# `13 / CONNECT`
 
-# LET'S BUILD SOMETHING INTELLIGENT.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=900&lines=AI+%E2%80%A2+SYSTEMS+%E2%80%A2+PRODUCTS+%E2%80%A2+INNOVATION;Ideas+are+only+the+beginning.;Let's+turn+them+into+systems.;Let's+ship+something+great." alt="Connection Terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=950&lines=LET'S+BUILD+SOMETHING+INTELLIGENT.;AI+%E2%80%A2+SYSTEMS+%E2%80%A2+PRODUCTS+%E2%80%A2+INNOVATION;Ideas+are+only+the+beginning.;Let's+turn+them+into+systems.;Let's+ship+something+great." alt="Let's Connect"/>
 
 <br><br>
 
-<a href="https://github.com/Krishgoyal31">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/goyal-krish31/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://krish-goyal.netlify.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://krish-goyal.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://vyxora.netlify.app/">
+<img src="https://img.shields.io/badge/VYXORA_LIVE-06B6D4?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a>
+
+<a href="mailto:krishgoyal3101@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
+
+<table align="center">
+<tr>
+
+<td align="center">
+
+### 🌐 PORTFOLIO
+
+<a href="https://krish-goyal.netlify.app/">
+<b>krish-goyal.netlify.app</b>
+</a>
+
+</td>
+
+<td align="center">
+
+### 🚀 VYXORA
+
+<a href="https://vyxora.netlify.app/">
+<b>vyxora.netlify.app</b>
+</a>
+
+</td>
+
+<td align="center">
+
+### 💼 LINKEDIN
+
+<a href="https://www.linkedin.com/in/goyal-krish31/">
+<b>goyal-krish31</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 📬 `krishgoyal3101@gmail.com`
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Krishgoyal31&label=SYSTEM%20ACCESS&color=7C3AED&style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2800&pause=800&color=64748B&center=true&vCenter=true&width=800&lines=%3E+System+still+running...;%3E+More+systems+coming+soon...;%3E+Stay+curious.;%3E+Keep+building.+%F0%9F%9A%80" alt="Footer Terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2700&pause=800&color=64748B&center=true&vCenter=true&width=850&lines=%3E+System+still+running...;%3E+More+systems+coming+soon...;%3E+Stay+curious.;%3E+Keep+building.;%3E+Keep+shipping.+%F0%9F%9A%80" alt="Footer Terminal"/>
 
 <br><br>
 
@@ -997,6 +1013,6 @@ Learn → Discover
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:06B6D4,50:7C3AED,75:312E81,100:030014&height=170&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:06B6D4,50:7C3AED,75:312E81,100:030014&height=180&section=footer&animation=fadeIn"/>
 
 </div>
