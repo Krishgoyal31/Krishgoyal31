@@ -45,6 +45,10 @@ alt="Animated engineering status"
 
 <br><br>
 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="55%" alt="Coding animation"/>
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="Animated rainbow divider"/>
 
 </div>
@@ -609,6 +613,10 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&dur
 alt="Animated terminal"
 />
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45%" alt="Developer coding animation"/>
+
 <br>
 
 ```text
@@ -810,6 +818,15 @@ Production systems
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=900&color=EC4899&center=true&vCenter=true&width=900&lines=HAVE+AN+IDEA+WORTH+BUILDING%3F;LET'S+TURN+IT+INTO+A+SYSTEM.;THEN+LET'S+SHIP+IT."
 alt="Animated call to action"
 />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-22C55E?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaborate"/>
+<img src="https://img.shields.io/badge/POWERED%20BY-COFFEE%20%E2%98%95-6F4E37?style=for-the-badge" alt="Powered by coffee"/>
 
 <br><br>
 
