@@ -66,7 +66,7 @@ alt="Animated positioning statement"
 
 <br>
 
-### AI / ML ENGINEER   •   GENERATIVE AI BUILDER   •   AGENTIC AI   •   FULL-STACK
+### AI / ML ENGINEER   •   GENERATIVE AI BUILDER   •   AGENTIC AI   •   FULL-STACK
 
 <br>
 
@@ -466,38 +466,91 @@ Practical utilities for developers.
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--             ENGINEERING TELEMETRY (FIXED WIDGETS)              -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 # 📊 `ENGINEERING TELEMETRY`
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=GITHUB+SIGNALS;CODE+IS+THE+TELEMETRY."
-alt="GitHub telemetry"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=800&lines=ENGINEERING+SIGNALS;CODE+IS+THE+TELEMETRY.;MEASURED+IN+COMMITS%2C+SYSTEMS+%26+SHIPPING."
+alt="Engineering telemetry animation"
 />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krishgoyal31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" width="48%" alt="GitHub statistics"/>
+<!-- GITHUB STATS + TOP LANGUAGES -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishgoyal31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0&langs_count=8" width="42%" alt="Top programming languages"/>
+<a href="https://github.com/Krishgoyal31">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krishgoyal31&theme=tokyonight"
+width="48%"
+alt="Krish Goyal GitHub statistics"
+/>
+
+</a>
+
+<a href="https://github.com/Krishgoyal31">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishgoyal31&theme=tokyonight"
+width="48%"
+alt="Krish Goyal top programming languages"
+/>
+
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Krishgoyal31&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=F97316&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8" width="80%" alt="GitHub contribution streak"/>
+<!-- PROFILE DETAILS -->
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishgoyal31&theme=tokyonight"
+width="96%"
+alt="Krish Goyal GitHub profile details"
+/>
+
+<br><br>
+
+<!-- STREAK -->
+
+<img
+src="https://streak-stats.demolab.com?user=Krishgoyal31&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=F97316&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8"
+width="82%"
+alt="Krish Goyal GitHub contribution streak"
+/>
 
 </div>
 
 ---
 
-# 📈 `ACTIVITY STREAM`
+# 🌌 `ACTIVITY STREAM`
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Krishgoyal31&bg_color=0D1117&color=67E8F9&line=A855F7&point=EC4899&area=true&hide_border=true&custom_title=KRISH%20GOYAL%20%E2%80%94%20ACTIVITY%20STREAM"
-width="95%"
-alt="GitHub activity graph"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=750&lines=ACTIVITY+STREAM;BUILDING+IN+PUBLIC.;EVERY+COMMIT+TELLS+A+STORY."
+alt="Activity stream animation"
 />
+
+<br><br>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Krishgoyal31&theme=tokyo-night&hide_border=true&area=true&custom_title=KRISH%20GOYAL%20%E2%80%94%20ACTIVITY%20STREAM"
+width="96%"
+alt="Krish Goyal GitHub activity graph"
+/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"
+width="100%"
+alt="Animated rainbow divider"/>
 
 </div>
 
