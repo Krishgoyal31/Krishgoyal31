@@ -541,7 +541,7 @@ alt="Activity stream animation"
 <br><br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Krishgoyal31&theme=tokyo-night&hide_border=true&area=true&custom_title=KRISH%20GOYAL%20%E2%80%94%20ACTIVITY%20STREAM"
+src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Krishgoyal31&theme=tokyo-night&hide_border=true&area=true&custom_title=KRISH%20GOYAL%20%E2%80%94%20ACTIVITY%20STREAM"
 width="96%"
 alt="Krish Goyal GitHub activity graph"
 />
