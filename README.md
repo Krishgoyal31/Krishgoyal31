@@ -2,38 +2,41 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                         HERO                                   -->
+<!--                        ANIMATED HERO                           -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:050014,20:170B3B,40:4C1D95,60:7C3AED,80:06B6D4,100:22D3EE&text=KRISH%20GOYAL&fontSize=78&fontColor=FFFFFF&fontAlignY=37&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20FULL-STACK&descSize=17&descAlignY=58&descColor=67E8F9&animation=fadeIn" width="100%" alt="Krish Goyal AI ML Engineer"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,20:16004D,45:4C1D95,70:7C3AED,85:06B6D4,100:22D3EE&height=320&section=header&text=KRISH%20GOYAL&fontSize=78&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%20%E2%80%A2%20%20GENERATIVE%20AI%20%20%E2%80%A2%20%20FULL-STACK&descAlignY=60&descSize=17&descColor=67E8F9&animation=fadeIn"
+width="100%"
+alt="Krish Goyal animated AI engineering header"
+/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=1000&lines=%3E+BOOTING+KRISH_AI_LAB...;%3E+GENERATIVE+AI+%5BONLINE%5D+%E2%9C%93;%3E+AGENTIC+SYSTEMS+%5BONLINE%5D+%E2%9C%93;%3E+RAG+%2F+KAG+%5BONLINE%5D+%E2%9C%93;%3E+FULL-STACK+ENGINE+%5BONLINE%5D+%E2%9C%93;%3E+BUILDING+INTELLIGENT+PRODUCTS...;%3E+SYSTEM+READY+%F0%9F%9A%80" alt="Animated Krish AI Lab"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=1000&lines=%3E+INITIALIZING+AI+ENGINEERING+CORE...;%3E+GENERATIVE+AI+%5BONLINE%5D+%E2%9C%93;%3E+AGENTIC+SYSTEMS+%5BONLINE%5D+%E2%9C%93;%3E+RAG+%2F+KAG+%5BONLINE%5D+%E2%9C%93;%3E+FULL-STACK+ENGINEERING+%5BONLINE%5D+%E2%9C%93;%3E+BUILDING+SYSTEMS+THAT+SHIP+%F0%9F%9A%80"
+alt="Animated engineering status"
+/>
 
 <br><br>
 
-<!-- Animated gradient-like visual -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f8e6d6c0-1b5f-4e7d-8f12-4b2c3c9f4f5e.gif" width="650" alt="Animated futuristic AI visual"/>
-
-<br><br>
+<!-- SOCIAL BUTTONS -->
 
 <a href="https://www.linkedin.com/in/goyal-krish31/">
-<img src="https://img.shields.io/badge/%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://krish-goyal.netlify.app/">
-<img src="https://img.shields.io/badge/%20PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://vyxora.netlify.app/">
-<img src="https://img.shields.io/badge/%20VYXORA-LIVE-06B6D4?style=for-the-badge&logo=rocket&logoColor=white" alt="VYXORA"/>
+<img src="https://img.shields.io/badge/VYXORA-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="VYXORA"/>
 </a>
 
 <a href="mailto:krishgoyal3101@gmail.com">
-<img src="https://img.shields.io/badge/%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-F43F5E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
@@ -42,151 +45,115 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="Animated rainbow separator"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="Animated rainbow divider"/>
 
 </div>
 
----
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         POSITIONING                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# ✦ I BUILD AI THAT SHIPS.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Turning+models+into+systems.;Turning+systems+into+products.;Turning+ideas+into+things+people+can+use." alt="Animated positioning statement"/>
-
-<br><br>
-
-<table>
-<tr>
-
-<td align="center" width="190">
-
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="55" alt="AI"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=I+BUILD+AI+THAT+SHIPS.;MODEL+%E2%86%92+SYSTEM+%E2%86%92+PRODUCT"
+alt="Animated positioning statement"
+/>
 
 <br>
 
-### AI / ML
-
-Machine Learning
-Deep Learning
-Computer Vision
-NLP
-
-</td>
-
-<td align="center" width="50">
-
-# →
-
-</td>
-
-<td align="center" width="190">
-
-<img src="https://img.icons8.com/fluency/96/brain.png" width="55" alt="Generative AI"/>
+### AI / ML ENGINEER   •   GENERATIVE AI BUILDER   •   AGENTIC AI   •   FULL-STACK
 
 <br>
 
-### INTELLIGENCE
-
-LLMs
-RAG / KAG
-AI Agents
-Reasoning
-
-</td>
-
-<td align="center" width="50">
-
-# →
-
-</td>
-
-<td align="center" width="190">
-
-<img src="https://img.icons8.com/fluency/96/code.png" width="55" alt="Software engineering"/>
-
-<br>
-
-### ENGINEERING
-
-APIs
-Backends
-Full-Stack
-Cloud
-
-</td>
-
-<td align="center" width="50">
-
-# →
-
-</td>
-
-<td align="center" width="190">
-
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="55" alt="Product engineering"/>
-
-<br>
-
-### PRODUCT
-
-Build
-Ship
-Iterate
-Impact
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=MODEL+%E2%86%92+SYSTEM+%E2%86%92+PRODUCT" alt="Model system product"/>
+> <b>Turning models, intelligence and ideas into real software products.</b>
 
 </div>
 
+<br>
+
 ---
 
-# 🧠 ABOUT ME
+# 🧠 `THE BUILDER`
 
 <table>
 <tr>
 
 <td width="58%" valign="top">
 
-### Engineering at the intersection of AI × Software
+## Building at the intersection of AI & software.
 
-I'm an **AI/ML Engineer, Generative AI Builder, Agentic AI Developer and Full-Stack Engineer** focused on building intelligent products.
+I'm an **AI/ML Engineer, Generative AI Builder and Full-Stack Engineer** focused on turning artificial intelligence into usable products.
 
-I work across the entire journey:
+My work spans:
 
-**Idea → Architecture → Intelligence → Interface → Deployment**
-
-My focus includes:
-
-* 🤖 Generative AI & LLM applications
-* 🧠 Machine Learning & Deep Learning
-* 🔗 RAG / KAG & knowledge systems
-* 🕸️ AI agents & agentic workflows
-* 🗣️ NLP & Computer Vision
-* ⚡ AI-powered APIs & backends
-* 💻 Full-stack product engineering
-* ☁️ Cloud & production systems
+🔹 **Machine Learning & Deep Learning**
+🔹 **Generative AI & LLM applications**
+🔹 **AI Agents & agentic workflows**
+🔹 **RAG / KAG & knowledge systems**
+🔹 **NLP & Computer Vision**
+🔹 **Backend & API engineering**
+🔹 **Full-stack product development**
+🔹 **Production-oriented AI systems**
 
 <br>
 
-> ### "Models are powerful. Systems make them useful."
+### My core idea
+
+```text
+        ┌───────────────┐
+        │     MODEL     │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    SYSTEM     │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    PRODUCT    │
+        └───────────────┘
+```
 
 </td>
 
-<td width="42%" align="center">
+<td width="42%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nextjs,typescript,nodejs,fastapi,docker,aws,git,linux" alt="Core technology stack"/>
+<div align="center">
 
-<br><br>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=400&lines=AI+LAB;SYSTEMS+IN+PROGRESS;BUILDING...;EXPERIMENTING...;SHIPPING..."
+alt="AI lab status"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=500&color=06B6D4&center=true&vCenter=true&width=400&lines=AI+ENGINEERING;SYSTEM+DESIGN;PRODUCT+BUILDING;FULL-STACK+DEVELOPMENT" alt="Engineering areas"/>
+<br>
+
+```text
+╭──────────────────────────────╮
+│       ⚡ AI LAB STATUS       │
+├──────────────────────────────┤
+│                              │
+│  🧠 AI ENGINE      ████████  │
+│  🤖 AGENTS         ████████  │
+│  🔗 RAG / KAG      ████████  │
+│  ⚙️  BACKENDS      ████████  │
+│  🌐 FULL STACK     ████████  │
+│                              │
+│  STATUS: ● BUILDING          │
+╰──────────────────────────────╯
+```
+
+<br>
+
+<img src="https://img.shields.io/badge/BUILDING-AI%20SYSTEMS-7C3AED?style=for-the-badge" alt="Building AI systems"/>
+<img src="https://img.shields.io/badge/SHIPPING-PRODUCTS-06B6D4?style=for-the-badge" alt="Shipping products"/>
+
+</div>
 
 </td>
 
@@ -195,73 +162,58 @@ My focus includes:
 
 ---
 
+# ⚡ `AI STACK`
+
 <div align="center">
 
-# ⚡ THE AI STACK
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=850&lines=FROM+RAW+DATA+TO+INTELLIGENT+PRODUCTS.;BUILDING+THE+FULL+AI+PIPELINE." alt="AI stack animation"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&width=800&lines=THE+TOOLS+BEHIND+THE+SYSTEMS;FROM+MODELS+TO+PRODUCTION"
+alt="Animated technology section"
+/>
 
 <br><br>
 
 <table>
 <tr>
 
-<td align="center" width="260">
+<td align="center" width="50%">
 
 ### 🧠 MACHINE LEARNING
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" alt="Machine learning stack"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" alt="Machine learning technologies"/>
 
 <br><br>
 
-`Python`
-`PyTorch`
-`TensorFlow`
-`Scikit-Learn`
-`OpenCV`
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=flat-square" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/NLP-A855F7?style=flat-square" alt="NLP"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-6366F1?style=flat-square" alt="Computer Vision"/>
 
 </td>
 
-<td align="center" width="260">
+<td align="center" width="50%">
 
-### ✨ GENERATIVE AI
-
-<br>
-
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG-4C1D95?style=for-the-badge" alt="RAG"/>
+### 🤖 GENERATIVE AI
 
 <br>
 
-<img src="https://img.shields.io/badge/KAG-6D28D9?style=for-the-badge" alt="KAG"/>
-<img src="https://img.shields.io/badge/AGENTS-0891B2?style=for-the-badge" alt="AI Agents"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/LANGGRAPH-06B6D4?style=for-the-badge" alt="LangGraph"/>
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 
 <br><br>
 
-`Embeddings` · `Vector Search`
-`Tool Calling` · `Agentic Workflows`
-
-</td>
-
-<td align="center" width="260">
-
-### 💻 ENGINEERING
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,fastapi,tailwind" alt="Software engineering stack"/>
+<img src="https://img.shields.io/badge/LLMs-EC4899?style=flat-square" alt="Large Language Models"/>
+<img src="https://img.shields.io/badge/RAG-DB2777?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/KAG-9333EA?style=flat-square" alt="KAG"/>
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/LangGraph-06B6D4?style=flat-square" alt="LangGraph"/>
 
 <br><br>
 
-`React` · `Next.js`
-`TypeScript` · `Node.js`
-`FastAPI` · `REST APIs`
+<img src="https://img.shields.io/badge/Embeddings-0891B2?style=flat-square" alt="Embeddings"/>
+<img src="https://img.shields.io/badge/Vector%20Search-0EA5E9?style=flat-square" alt="Vector Search"/>
+<img src="https://img.shields.io/badge/Tool%20Calling-14B8A6?style=flat-square" alt="Tool Calling"/>
 
 </td>
 
@@ -271,31 +223,33 @@ My focus includes:
 
 <td align="center">
 
-### 🗄️ DATA
+### 🌐 FULL-STACK
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" alt="Database technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,fastapi,tailwind" alt="Full stack technologies"/>
+
+<br><br>
+
+`React` · `Next.js` · `TypeScript` · `Node.js`
+
+`Express` · `FastAPI` · `Tailwind` · `REST APIs`
 
 </td>
 
 <td align="center">
 
-### ☁️ CLOUD
+### ☁️ DATA / CLOUD / DEVOPS
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" alt="Cloud technologies"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,docker,kubernetes,aws,azure,git,github,linux" alt="Cloud data and DevOps technologies"/>
 
-</td>
+<br><br>
 
-<td align="center">
+`MongoDB` · `PostgreSQL` · `MySQL` · `Redis`
 
-### 🛠️ TOOLING
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Developer tooling"/>
+`Docker` · `Kubernetes` · `AWS` · `Azure` · `Git` · `Linux`
 
 </td>
 
@@ -306,201 +260,263 @@ My focus includes:
 
 ---
 
+# 🌌 `AI SYSTEM ARCHITECTURE`
+
 <div align="center">
 
-# 🧬 HOW I BUILD AI SYSTEMS
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1900&pause=600&color=A78BFA&center=true&vCenter=true&width=800&lines=INTELLIGENCE+NEEDS+ARCHITECTURE.;ARCHITECTURE+NEEDS+ENGINEERING.;ENGINEERING+NEEDS+A+PRODUCT." alt="Architecture animation"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2300&pause=600&color=22D3EE&center=true&vCenter=true&width=900&lines=INTELLIGENCE+NEEDS+ARCHITECTURE.;MODEL+%2B+MEMORY+%2B+TOOLS+%3D+USEFUL+SYSTEMS."
+alt="Animated architecture statement"
+/>
 
 <br><br>
 
-```text
-                         ╭──────────────────────╮
-                         │        USER          │
-                         ╰──────────┬───────────╯
-                                    │
-                                    ▼
-                         ╭──────────────────────╮
-                         │     APPLICATION      │
-                         ╰──────────┬───────────╯
-                                    │
-                                    ▼
-                   ╭──────────────────────────────╮
-                   │      AI ORCHESTRATION       │
-                   ╰──────────────┬───────────────╯
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-              ▼                   ▼                   ▼
-         ╭──────────╮        ╭──────────╮        ╭──────────╮
-         │   LLM    │        │   RAG    │        │  AGENT   │
-         ╰────┬─────╯        ╰────┬─────╯        ╰────┬─────╯
-              │                   │                   │
-              │                   ▼                   ▼
-              │             ╭───────────╮       ╭───────────╮
-              │             │ KNOWLEDGE │       │   TOOLS   │
-              │             │   LAYER   │       │   / APIs  │
-              │             ╰─────┬─────╯       ╰─────┬─────╯
-              │                   │                   │
-              └───────────────────┼───────────────────┘
-                                  │
-                                  ▼
-                         ╭──────────────────────╮
-                         │   MEMORY / CONTEXT   │
-                         ╰──────────┬───────────╯
-                                    │
-                                    ▼
-                         ╭──────────────────────╮
-                         │       ACTION         │
-                         ╰──────────┬───────────╯
-                                    │
-                                    ▼
-                         ╭──────────────────────╮
-                         │       PRODUCT        │
-                         ╰──────────────────────╯
-```
+<table>
+<tr>
+
+<td align="center">
+
+### `01`
+
+### USER
+
+⬇️
+
+### `02`
+
+### APPLICATION
+
+⬇️
+
+### `03`
+
+### AI ORCHESTRATION
+
+</td>
+
+<td align="center">
+
+### `04`
+
+🧠 **LLM**
+
+*
+
+🔗 **RAG**
+
+*
+
+🤖 **AGENTS**
+
+<br><br>
+
+### `05`
+
+MEMORY + KNOWLEDGE
+
+</td>
+
+<td align="center">
+
+### `06`
+
+🛠️ **TOOLS / APIs**
+
+⬇️
+
+### `07`
+
+⚡ **ACTION**
+
+⬇️
+
+### `08`
+
+🚀 **PRODUCT**
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2100&pause=600&color=22D3EE&center=true&vCenter=true&width=900&lines=INPUT+%E2%86%92+MODEL+%E2%86%92+MEMORY+%E2%86%92+REASONING+%E2%86%92+TOOLS+%E2%86%92+ACTION" alt="AI pipeline"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=850&lines=USER+%E2%86%92+APPLICATION+%E2%86%92+ORCHESTRATION+%E2%86%92+INTELLIGENCE;%E2%86%93+MEMORY+%E2%86%93+TOOLS+%E2%86%93+ACTION+%E2%86%93+PRODUCT"
+alt="AI architecture flow"
+/>
 
 </div>
 
 ---
 
-# 🚀 FLAGSHIP BUILD
+# 🚀 `FLAGSHIP BUILD — VYXORA`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090014,35:312E81,65:7C3AED,100:06B6D4&height=120&text=VYXORA&fontSize=48&fontColor=FFFFFF&animation=fadeIn" width="90%" alt="VYXORA banner"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=800&color=EC4899&center=true&vCenter=true&width=850&lines=VYXORA;%E2%9A%A1+AI-POWERED+PRODUCTIVITY+ECOSYSTEM"
+alt="VYXORA animated title"
+/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2300&pause=700&color=67E8F9&center=true&vCenter=true&width=900&lines=AI-POWERED+MULTI-MODULE+PRODUCTIVITY+PLATFORM;ONE+ECOSYSTEM.+MULTIPLE+AI+WORKFLOWS.;BUILDING+THE+FUTURE+OF+AI+PRODUCTIVITY." alt="VYXORA animated description"/>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:14001F,50:4C1D95,100:0E7490&height=130&text=VYXORA&fontSize=58&fontColor=FFFFFF&animation=fadeIn"
+width="80%"
+alt="VYXORA product banner"
+/>
 
 </div>
+
+<br>
 
 <table>
 <tr>
 
 <td width="55%" valign="top">
 
-## ⚡ VYXORA
+## What is VYXORA?
 
-**An AI-powered multi-module productivity platform.**
+**VYXORA** is an AI-powered multi-module productivity platform combining intelligent chat, AI writing, browser-based development, web generation and developer utilities.
 
-VYXORA is a unified AI productivity ecosystem combining:
+It brings multiple AI-powered workflows into one unified product experience.
 
-* 🤖 Intelligent AI Chat
-* ✍️ AI Writing
-* 💻 Browser-based Development
-* 🌐 Web Generation
-* 🛠️ Developer Utilities
+### Core capabilities
 
-The goal is simple:
+🤖 **AI Chat**
+Intelligent AI interaction.
 
-### Make powerful AI workflows feel like one product.
+✍️ **AI Writing**
+AI-assisted content creation.
 
-<br>
+💻 **Browser IDE**
+Development directly in the browser.
 
-<a href="https://vyxora.netlify.app/">
-<img src="https://img.shields.io/badge/%E2%9A%A1%20EXPLORE%20VYXORA-LIVE-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Explore VYXORA live"/>
-</a>
+🌐 **Web Generation**
+AI-powered web experiences.
+
+🛠️ **Developer Tools**
+Practical utilities for developers.
 
 </td>
 
 <td width="45%" valign="top">
 
+<div align="center">
+
 ### PRODUCT FLOW
 
 ```text
-       USER
-        │
-        ▼
-   ┌──────────┐
-   │ VYXORA   │
-   │   UI     │
-   └────┬─────┘
-        │
-        ▼
- ┌──────────────┐
- │ ORCHESTRATOR │
- └──────┬───────┘
-        │
-   ┌────┼────┐
-   ▼    ▼    ▼
-  LLM  RAG  TOOLS
-   │    │    │
-   └────┼────┘
-        ▼
-     MEMORY
-        │
-        ▼
-      ACTION
-        │
-        ▼
-     PRODUCT
+        👤 USER
+           │
+           ▼
+   ┌───────────────┐
+   │    VYXORA     │
+   │   INTERFACE   │
+   └───────┬───────┘
+           │
+           ▼
+   ┌───────────────┐
+   │ AI ORCHESTRATOR│
+   └───────┬───────┘
+           │
+     ┌─────┼─────┐
+     ▼     ▼     ▼
+    LLM   RAG   TOOLS
+     │     │     │
+     └─────┼─────┘
+           ▼
+       MEMORY
+           │
+           ▼
+        ACTION
+           │
+           ▼
+        PRODUCT
 ```
+
+<br>
+
+<a href="https://vyxora.netlify.app/">
+<img src="https://img.shields.io/badge/%E2%9A%A1%20EXPLORE%20VYXORA-LIVE-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Explore VYXORA"/>
+</a>
+
+</div>
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI-POWERED-7C3AED?style=for-the-badge" alt="AI powered"/>
-<img src="https://img.shields.io/badge/GENERATIVE_AI-06B6D4?style=for-the-badge" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/AGENTS-312E81?style=for-the-badge" alt="Agents"/>
-<img src="https://img.shields.io/badge/FULL--STACK-111827?style=for-the-badge" alt="Full stack"/>
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-7C3AED?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/AI%20AGENTS-EC4899?style=for-the-badge" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-2563EB?style=for-the-badge" alt="Full stack"/>
 
 <br><br>
 
-**AI → SOFTWARE → EXPERIENCE**
+> **Don't just build an AI feature. Build an AI product.**
 
 </div>
 
 ---
 
+# 📊 `ENGINEERING TELEMETRY`
+
 <div align="center">
 
-# 📊 ENGINEERING TELEMETRY
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=22D3EE&center=true&vCenter=true&width=850&lines=READING+ENGINEERING+SIGNALS...;ANALYZING+THE+BUILD+HISTORY...;SYSTEM+TELEMETRY+ONLINE." alt="Telemetry animation"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krishgoyal31&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050014&title_color=A78BFA&icon_color=22D3EE&text_color=C4B5FD&rank_icon=github" width="48%" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishgoyal31&layout=compact&hide_border=true&theme=tokyonight&bg_color=050014&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="40%" alt="Top programming languages"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=GITHUB+SIGNALS;CODE+IS+THE+TELEMETRY."
+alt="GitHub telemetry"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Krishgoyal31&theme=tokyonight&hide_border=true&background=050014&ring=7C3AED&fire=22D3EE&currStreakLabel=67E8F9&sideLabels=C4B5FD&dates=94A3B8" width="78%" alt="GitHub contribution streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Krishgoyal31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" width="48%" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishgoyal31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0&langs_count=8" width="42%" alt="Top programming languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Krishgoyal31&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=F97316&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8" width="80%" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
+# 📈 `ACTIVITY STREAM`
+
 <div align="center">
 
-# 🌌 ACTIVITY MATRIX
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishgoyal31&bg_color=050014&color=67E8F9&line=7C3AED&point=22D3EE&area=true&hide_border=true&custom_title=KRISH%20GOYAL%20%E2%80%94%20ENGINEERING%20ACTIVITY" width="96%" alt="GitHub activity graph"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1800&pause=500&color=64748B&center=true&vCenter=true&width=700&lines=EVERY+COMMIT+IS+A+SIGNAL.;EVERY+BUILD+IS+AN+EXPERIMENT.;KEEP+THE+SYSTEM+MOVING." alt="Activity philosophy"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Krishgoyal31&bg_color=0D1117&color=67E8F9&line=A855F7&point=EC4899&area=true&hide_border=true&custom_title=KRISH%20GOYAL%20%E2%80%94%20ACTIVITY%20STREAM"
+width="95%"
+alt="GitHub activity graph"
+/>
 
 </div>
 
 ---
 
+# 🐍 `CONTRIBUTION ENGINE`
+
 <div align="center">
 
-# 🐍 CONTRIBUTION ENGINE
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1900&pause=600&color=EC4899&center=true&vCenter=true&width=800&lines=COMMIT.;BUILD.;SHIP.;REPEAT.;KEEP+THE+GREEN+ALIVE+%F0%9F%90%8D"
+alt="Contribution animation"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1600&pause=500&color=22D3EE&center=true&vCenter=true&width=800&lines=COMMIT.;BUILD.;SHIP.;REPEAT.;THE+MATRIX+IS+ALIVE." alt="Contribution animation"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/COMMITS-ACTIVE-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Active commits"/>
+<img src="https://img.shields.io/badge/BUILD-ONLINE-06B6D4?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build pipeline"/>
+<img src="https://img.shields.io/badge/SHIPPING-ACTIVE-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Shipping"/>
 
 <br><br>
 
@@ -515,81 +531,94 @@ The goal is simple:
   />
   <img
     src="https://raw.githubusercontent.com/Krishgoyal31/Krishgoyal31/output/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="Animated GitHub contribution snake"
+    width="94%"
+    alt="GitHub contribution snake animation"
   />
 </picture>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=700&lines=BUILDING+MOMENTUM...;%5B+CONTRIBUTION+ENGINE+ACTIVE+%5D;%5B+KEEP+SHIPPING+%5D" alt="Contribution telemetry"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1700&pause=500&color=64748B&center=true&vCenter=true&width=700&lines=%5B+TRACKING+ENGINEERING+SIGNALS+%5D;%5B+BUILDING+MOMENTUM...+%5D;%5B+NEXT+COMMIT+LOADING...+%5D"
+alt="Contribution telemetry"
+/>
 
 </div>
 
 ---
 
-# 🖥️ DEVELOPER TERMINAL
+# 🖥️ `DEVELOPER TERMINAL`
 
 <div align="center">
 
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=ACCESSING+KRISH.LAB...;AUTHENTICATION+%E2%9C%93;ENVIRONMENT+READY.;WELCOME+TO+THE+BUILD+LOOP."
+alt="Animated terminal"
+/>
+
+<br>
+
 ```text
-╭────────────────────────────────────────────────────────────╮
-│  krish@ai-lab ~ %                                         │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  $ whoami                                                  │
-│  > AI/ML Engineer                                          │
-│                                                            │
-│  $ expertise                                               │
-│  > Generative AI                                           │
-│  > Agentic Systems                                         │
-│  > RAG / KAG                                               │
-│  > NLP                                                     │
-│  > Full-Stack Engineering                                  │
-│                                                            │
-│  $ current_project                                         │
-│  > VYXORA                                                  │
-│                                                            │
-│  $ architecture                                            │
-│  > Model → Memory → Reasoning → Tools → Action             │
-│                                                            │
-│  $ philosophy                                              │
-│  > Build things that solve real problems.                  │
-│                                                            │
-│  $ status                                                  │
-│  > ● ONLINE                                                 │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  krish@ai-lab ~ % whoami                             │
+│                                                      │
+│  > AI/ML Engineer                                    │
+│                                                      │
+│  krish@ai-lab ~ % focus                              │
+│                                                      │
+│  > Generative AI                                     │
+│  > Agentic Systems                                   │
+│  > RAG / KAG                                         │
+│  > NLP                                               │
+│  > Full-Stack Engineering                            │
+│                                                      │
+│  krish@ai-lab ~ % current                            │
+│                                                      │
+│  > VYXORA                                            │
+│                                                      │
+│  krish@ai-lab ~ % philosophy                         │
+│                                                      │
+│  > MODEL → SYSTEM → PRODUCT                          │
+│                                                      │
+│  krish@ai-lab ~ % status                             │
+│                                                      │
+│  > ● ONLINE                                          │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1700&pause=500&color=22D3EE&center=true&vCenter=true&width=800&lines=%24+git+add+.;%24+git+commit+-m+%22build+something+useful%22;%24+git+push+origin+main;%3E+deploying...;%3E+production+%E2%9C%93" alt="Animated terminal commands"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=600&color=A78BFA&center=true&vCenter=true&width=750&lines=%24+git+add+.;%24+git+commit+-m+%22build+something+useful%22;%24+git+push+origin+main;%3E+Deploying...;%3E+Production+%E2%9C%93"
+alt="Animated Git workflow"
+/>
 
 </div>
 
 ---
 
-<div align="center">
+# ✦ `ENGINEERING PHILOSOPHY`
 
-# 🧭 ENGINEERING PHILOSOPHY
+<div align="center">
 
 <table>
 <tr>
 
 <td align="center" width="180">
 
-### 💡
+### 🧠
 
-**BUILD WITH PURPOSE**
+**LEARN DEEPLY**
 
 </td>
 
 <td align="center" width="180">
 
-### 🧠
+### 🏗️
 
-**LEARN DEEPLY**
+**BUILD WITH PURPOSE**
 
 </td>
 
@@ -605,7 +634,7 @@ The goal is simple:
 
 <tr>
 
-<td align="center" width="180">
+<td align="center">
 
 ### 📐
 
@@ -613,15 +642,15 @@ The goal is simple:
 
 </td>
 
-<td align="center" width="180">
+<td align="center">
 
-### 🔁
+### 🔥
 
 **IMPROVE RELENTLESSLY**
 
 </td>
 
-<td align="center" width="180">
+<td align="center">
 
 ### 🌌
 
@@ -634,50 +663,150 @@ The goal is simple:
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Ideas+are+cheap.;Execution+is+the+engineering.;Build+%E2%86%92+Ship+%E2%86%92+Learn+%E2%86%92+Repeat." alt="Engineering philosophy"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Systems+over+shortcuts.;Architecture+over+complexity.;Execution+over+excuses.;Keep+building.;Keep+shipping."
+alt="Engineering philosophy animation"
+/>
 
 </div>
 
 ---
 
+# 🌠 `WHAT'S NEXT`
+
 <div align="center">
 
-# ✦ HAVE AN IDEA WORTH BUILDING?
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=850&lines=MORE+INTELLIGENT+SYSTEMS.;MORE+USEFUL+AI+PRODUCTS.;MORE+EXPERIMENTS.;MORE+SHIPPING."
+alt="Future building animation"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=LET'S+TURN+IT+INTO+A+SYSTEM.;THEN+LET'S+SHIP+IT." alt="Final call to action"/>
+<br><br>
+
+<table>
+<tr>
+
+<td align="center">
+
+🤖
+
+<br>
+
+**AGENTIC AI**
+
+<br>
+
+Autonomous workflows
+
+</td>
+
+<td align="center">
+
+🧠
+
+<br>
+
+**GENERATIVE AI**
+
+<br>
+
+LLM-powered systems
+
+</td>
+
+<td align="center">
+
+🔗
+
+<br>
+
+**KNOWLEDGE SYSTEMS**
+
+<br>
+
+RAG / KAG
+
+</td>
+
+<td align="center">
+
+⚡
+
+<br>
+
+**AI PRODUCTS**
+
+<br>
+
+Production systems
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 💜 `LET'S BUILD`
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=900&color=EC4899&center=true&vCenter=true&width=900&lines=HAVE+AN+IDEA+WORTH+BUILDING%3F;LET'S+TURN+IT+INTO+A+SYSTEM.;THEN+LET'S+SHIP+IT."
+alt="Animated call to action"
+/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/goyal-krish31/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <a href="https://krish-goyal.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/VISIT-PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/>
 </a>
 
 <a href="https://vyxora.netlify.app/">
-<img src="https://img.shields.io/badge/VYXORA-06B6D4?style=for-the-badge&logo=rocket&logoColor=white" alt="VYXORA"/>
+<img src="https://img.shields.io/badge/EXPLORE-VYXORA-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Explore VYXORA"/>
 </a>
 
 <a href="mailto:krishgoyal3101@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/CONTACT-EMAIL-F43F5E?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Krishgoyal31&label=SYSTEM%20ACCESS&color=7C3AED&style=for-the-badge" alt="Profile access"/>
+<sub>
+
+AI · SYSTEMS · PRODUCTS · INNOVATION
+
+</sub>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2600&pause=800&color=64748B&center=true&vCenter=true&width=750&lines=BUILD+%E2%86%92+SHIP+%E2%86%92+LEARN+%E2%86%92+REPEAT;%3E+System+still+running...;%3E+More+systems+coming+soon...;%3E+Stay+curious."
+alt="Animated footer message"
+/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="Animated footer separator"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="Animated rainbow divider"/>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2700&pause=800&color=64748B&center=true&vCenter=true&width=800&lines=%3E+System+still+running...;%3E+More+systems+coming+soon...;%3E+Stay+curious.;%3E+Keep+building.;%3E+Keep+shipping+%F0%9F%9A%80" alt="Footer terminal"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:030014,25:312E81,50:7C3AED,75:06B6D4,100:020617&animation=fadeIn" width="100%" alt="Animated gradient footer"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,20:16004D,45:4C1D95,70:7C3AED,85:06B6D4,100:22D3EE&height=180&section=footer&animation=fadeIn"
+width="100%"
+alt="Animated gradient footer"
+/>
 
 </div>
