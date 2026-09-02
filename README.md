@@ -620,33 +620,33 @@ alt="Animated terminal"
 <br>
 
 ```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│  krish@ai-lab ~ % whoami                             │
-│                                                      │
-│  > AI/ML Engineer                                    │
-│                                                      │
-│  krish@ai-lab ~ % focus                              │
-│                                                      │
-│  > Generative AI                                     │
-│  > Agentic Systems                                   │
-│  > RAG / KAG                                         │
-│  > NLP                                               │
-│  > Full-Stack Engineering                            │
-│                                                      │
-│  krish@ai-lab ~ % current                            │
-│                                                      │
-│  > VYXORA                                            │
-│                                                      │
-│  krish@ai-lab ~ % philosophy                         │
-│                                                      │
-│  > MODEL → SYSTEM → PRODUCT                          │
-│                                                      │
-│  krish@ai-lab ~ % status                             │
-│                                                      │
-│  > ● ONLINE                                          │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+                              ╭──────────────────────────────────────────────────────╮
+                              │                                                      │
+                              │  krish@ai-lab ~ % whoami                             │
+                              │                                                      │
+                              │  > AI/ML Engineer                                    │
+                              │                                                      │
+                              │  krish@ai-lab ~ % focus                              │
+                              │                                                      │
+                              │  > Generative AI                                     │
+                              │  > Agentic Systems                                   │
+                              │  > RAG / KAG                                         │
+                              │  > NLP                                               │
+                              │  > Full-Stack Engineering                            │
+                              │                                                      │
+                              │  krish@ai-lab ~ % current                            │
+                              │                                                      │
+                              │  > VYXORA                                            │
+                              │                                                      │
+                              │  krish@ai-lab ~ % philosophy                         │
+                              │                                                      │
+                              │  > MODEL → SYSTEM → PRODUCT                          │
+                              │                                                      │
+                              │  krish@ai-lab ~ % status                             │
+                              │                                                      │
+                              │  > ● ONLINE                                          │
+                              │                                                      │
+                              ╰──────────────────────────────────────────────────────╯
 ```
 
 <br>
