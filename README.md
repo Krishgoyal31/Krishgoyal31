@@ -186,11 +186,7 @@ alt="Animated technology section"
 
 <br>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=52&animation=shake" alt="Python" title="Python"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=pytorch&size=52&animation=shake" alt="PyTorch" title="PyTorch"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=52&animation=shake" alt="TensorFlow" title="TensorFlow"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=scikitlearn&size=52&animation=shake" alt="Scikit-learn" title="Scikit-learn"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=opencv&size=52&animation=shake" alt="OpenCV" title="OpenCV"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" alt="Machine learning technologies"/>
 
 <br><br>
 
@@ -207,10 +203,7 @@ alt="Animated technology section"
 
 <br>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=52&animation=shake" alt="Python" title="Python"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=openai&size=52&animation=shake" alt="OpenAI" title="OpenAI"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=langchain&size=52&animation=shake" alt="LangChain" title="LangChain"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=huggingface&size=52&animation=shake" alt="Hugging Face" title="Hugging Face"/>
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 
 <br><br>
 
@@ -238,13 +231,7 @@ alt="Animated technology section"
 
 <br>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=react&size=52&animation=shake" alt="React" title="React"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=nextdotjs&size=52&animation=shake" alt="Next.js" title="Next.js"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=52&animation=shake" alt="TypeScript" title="TypeScript"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=nodedotjs&size=52&animation=shake" alt="Node.js" title="Node.js"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=express&size=52&animation=shake" alt="Express" title="Express"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=fastapi&size=52&animation=shake" alt="FastAPI" title="FastAPI"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=52&animation=shake" alt="Tailwind CSS" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,fastapi,tailwind" alt="Full stack technologies"/>
 
 <br><br>
 
@@ -260,17 +247,7 @@ alt="Animated technology section"
 
 <br>
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=48&animation=shake" alt="MongoDB" title="MongoDB"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=48&animation=shake" alt="PostgreSQL" title="PostgreSQL"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=48&animation=shake" alt="MySQL" title="MySQL"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=redis&size=48&animation=shake" alt="Redis" title="Redis"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=docker&size=48&animation=shake" alt="Docker" title="Docker"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=kubernetes&size=48&animation=shake" alt="Kubernetes" title="Kubernetes"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=amazonaws&size=48&animation=shake" alt="AWS" title="AWS"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=microsoftazure&size=48&animation=shake" alt="Azure" title="Azure"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=git&size=48&animation=shake" alt="Git" title="Git"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=48&animation=shake" alt="GitHub" title="GitHub"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=48&animation=shake" alt="Linux" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,docker,kubernetes,aws,azure,git,github,linux" alt="Cloud data and DevOps technologies"/>
 
 <br><br>
 
